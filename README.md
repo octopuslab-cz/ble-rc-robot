@@ -1,5 +1,5 @@
 # ble-rc-robot
-OctopusLAB ROBOTboard ESP32 DIY | chassis R01 2-wheel Robot - RC via BLE 
+OctopusLAB ROBOTboard ESP32 DIY | chassis [R01](https://github.com/octopuslab-cz/octopus_ROBOT-R01) 2-wheel Robot - RC via BLE 
 
 ---
 
